@@ -1,0 +1,6 @@
+✅ Healthy Example (Input values):
+58, 1, 0, 140, 250, 0, 0, 115, 1, 1.2, 1, 2, 3
+
+⚠️ Risk Example (Input values):
+Apni jodi check korte chan je model "Risk" chinte pare kina, tobe eii sonkhagulo diye try korun:
+45, 0, 2, 130, 230, 0, 1, 175, 0, 0.5, 2, 0, 2
